@@ -46,7 +46,7 @@ console.log("Ready to build amazing things together! ✨");
 ## 🎯 Featured Projects
 
 ### 🌍 **Territorio Vichero** - Interactive Geoportal
-**[🔗 Live Demo](#) | [📁 Repository](#)**
+**[🔗 Live Demo](#) **
 
 *Territorial exploration platform with interactive maps and data visualization*
 
@@ -59,7 +59,7 @@ console.log("Ready to build amazing things together! ✨");
 ---
 
 ### 🐕 **Veterinary Clinic** - Business Landing Page  
-**[🔗 Live Demo](#) | [📁 Repository](#)**
+**[🔗 Live Demo](#) **
 
 *Professional website with service catalog and WhatsApp integration*
 
@@ -72,7 +72,7 @@ console.log("Ready to build amazing things together! ✨");
 ---
 
 ### ☕ **DE COIN CAFÉ** - E-commerce Platform
-**[🔗 Live Demo](#) | [📁 Repository](#)**
+**[🔗 Live Demo](#) **
 
 *Modern e-commerce solution for coffee products with elegant design*
 
