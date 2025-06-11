@@ -58,8 +58,8 @@ console.log("Ready to build amazing things together! ✨");
 
 ---
 
-### 🐕 **Veterinary Clinic** - Business Landing Page  
-**[🔗 Live Demo](https://petlovers.javm.tech/productos/) **
+### 🐕 **Dog grooming** - Business Landing Page  
+**[🔗 Live Demo](https://petlovers.javm.tech/) **
 
 *Professional website with service catalog and WhatsApp integration*
 
