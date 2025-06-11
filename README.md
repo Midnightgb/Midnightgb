@@ -46,7 +46,7 @@ console.log("Ready to build amazing things together! ✨");
 ## 🎯 Featured Projects
 
 ### 🌍 **Territorio Vichero** - Interactive Geoportal
-**[🔗 Live Demo](#) **
+**[🔗 Live Demo](https://territoriovichero.com/) **
 
 *Territorial exploration platform with interactive maps and data visualization*
 
@@ -59,7 +59,7 @@ console.log("Ready to build amazing things together! ✨");
 ---
 
 ### 🐕 **Veterinary Clinic** - Business Landing Page  
-**[🔗 Live Demo](#) **
+**[🔗 Live Demo](https://petlovers.javm.tech/productos/) **
 
 *Professional website with service catalog and WhatsApp integration*
 
@@ -71,8 +71,8 @@ console.log("Ready to build amazing things together! ✨");
 
 ---
 
-### ☕ **DE COIN CAFÉ** - E-commerce Platform
-**[🔗 Live Demo](#) **
+### ☕ **Le Coin Coffee Shop** - E-commerce Platform
+**[🔗 Live Demo](https://www.javm.tech/) **
 
 *Modern e-commerce solution for coffee products with elegant design*
 
