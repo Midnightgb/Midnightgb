@@ -76,7 +76,7 @@ console.log("Ready to build amazing things together! ✨");
 
 *Modern e-commerce solution for coffee products with elegant design*
 
-**Tech Stack:** Vue.js • Tailwind CSS • Laravel • E-commerce Features • Category Management
+**Tech Stack:** Vue.js • Tailwind CSS • Laravel • E-commerce Features • MercadoPago Gateway **[🔗 Repository](https://github.com/Midnightgb/mercadopago-payment-gateaway) **
 - 🛒 Complete product catalog system
 - 🎨 Elegant and thematic design
 - 📂 Intuitive category navigation
