@@ -50,7 +50,7 @@ console.log("Ready to build amazing things together! ✨");
 
 *Territorial exploration platform with interactive maps and data visualization*
 
-**Tech Stack:** React 19 • ArcGIS Core • Tailwind CSS • GSAP • Radix UI • Vite
+**Tech Stack:** React • ArcGIS Core • Tailwind CSS • GSAP • Radix UI • Vite
 - 🗺️ Interactive maps with ArcGIS integration
 - 📊 Data visualization and territorial indicators  
 - ✨ Smooth animations and modern UI/UX
@@ -76,7 +76,7 @@ console.log("Ready to build amazing things together! ✨");
 
 *Modern e-commerce solution for coffee products with elegant design*
 
-**Tech Stack:** React • Tailwind CSS • E-commerce Features • Category Management
+**Tech Stack:** Vue.js • Tailwind CSS • Laravel • E-commerce Features • Category Management
 - 🛒 Complete product catalog system
 - 🎨 Elegant and thematic design
 - 📂 Intuitive category navigation
@@ -108,10 +108,6 @@ console.log("Ready to build amazing things together! ✨");
 ![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
 ![Heroku](https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white)
 
-### 🎨 Design & Animation
-![GSAP](https://img.shields.io/badge/GSAP-88CE02?style=for-the-badge&logo=greensock&logoColor=white)
-![Radix UI](https://img.shields.io/badge/Radix%20UI-161618?style=for-the-badge&logo=radix-ui&logoColor=white)
-![ArcGIS](https://img.shields.io/badge/ArcGIS-2C7AC3?style=for-the-badge&logo=arcgis&logoColor=white)
 
 </div>
 
