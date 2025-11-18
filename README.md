@@ -59,7 +59,6 @@ console.log("Ready to build amazing things together! ✨");
 ---
 
 ### 🐕 **Dog grooming** - Business Landing Page  
-**[🔗 Live Demo](https://petlovers.javm.tech/) **
 
 *Professional website with service catalog and WhatsApp integration*
 
@@ -72,7 +71,6 @@ console.log("Ready to build amazing things together! ✨");
 ---
 
 ### ☕ **Le Coin Coffee Shop** - E-commerce Platform
-**[🔗 Live Demo](https://www.javm.tech/) **
 
 *Modern e-commerce solution for coffee products with elegant design*
 
