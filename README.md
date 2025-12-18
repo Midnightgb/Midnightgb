@@ -92,7 +92,7 @@ console.log("Building enterprise systems & leading teams! 🚀");
 - 💳 Payment processing system with email parsing and fuzzy matching algorithm
 - 🤖 AI-powered report generation using Google Gemini API
 - 👥 Role-based access control (Admin/VIP/Basic) with credit management
-- 💰 Subscription model: 20,000 COP/month or pay-per-use (5,500 COP/credit)
+- 💰 Subscription model
 - 🚀 Docker Compose orchestration with systemd service + Nginx reverse proxy
 - 📊 Admin dashboard with user management and payment approval workflow
 - 📄 Automated DOCX report generation with custom templates
