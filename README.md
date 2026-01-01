@@ -57,7 +57,7 @@ console.log("Building enterprise systems & leading teams! 🚀");
 ## 🎯 Featured Projects
 
 ### 🏛️ **APE SENA** - Colombian Public Employment Agency Platform
-**[Full-Stack Developer & Technical Co-Lead | July 2024 - Present]**
+**[Full-Stack Developer & Technical Co-Lead]**
 
 *Enterprise-scale government employment platform with 4 React applications*
 
@@ -81,7 +81,7 @@ console.log("Building enterprise systems & leading teams! 🚀");
 ---
 
 ### 💼 **Reports Generator SaaS** - Internal Tool
-**[Full-Stack Developer | November 2024 - Present]**
+**[Full-Stack Developer]**
 
 *Complete SaaS platform for AI-powered Git repository analysis with subscription model*
 
