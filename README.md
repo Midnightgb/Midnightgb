@@ -184,7 +184,7 @@ console.log("Building enterprise systems & leading teams! 🚀");
 </div>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=midnightgb&theme=radical&langs_count=5&hide=html,css" height="170" alt="Wakatime Coding Stats"/>
+  <img src="https://readme-stats-two-pi.vercel.app/api/wakatime?username=midnightgb&theme=radical&langs_count=5&hide=html,css" height="170" alt="Wakatime Coding Stats"/>
 </div>
 
 ## 🐍 Contribution Snake
