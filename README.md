@@ -1,4 +1,4 @@
-# 🚀 Julian Vasquez | Full-Stack Developer & Technical Co-Lead
+# 🚀 Julian Vasquez | Full-Stack Developer
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?font=Baloo2+Code&size=22&duration=3000&pause=1000&color=4D2EF7&center=true&vCenter=true&width=600&lines=Full-Stack+Developer+%26+Technical+Co-Lead;React+19+%26+TypeScript+5+Expert;Managing+Teams+%26+Building+SaaS;Monorepo+Architect+%7C+9+Packages;Leading+Migrations+%26+Scaling+Systems)](https://git.io/typing-svg)
 
