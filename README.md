@@ -16,7 +16,7 @@
 class JulianVasquez {
     constructor() {
         this.name = "Julian Vasquez";
-        this.role = "Full-Stack Developer & Technical Co-Lead";
+        this.role = "Full-Stack Developer";
         this.location = "Colombia 🇨🇴";
         this.currentPosition = "Rootstack";
         this.languages = ["TypeScript", "JavaScript", "Python", "PHP", "Java"];
