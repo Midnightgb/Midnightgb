@@ -18,7 +18,7 @@ class JulianVasquez {
         this.name = "Julian Vasquez";
         this.role = "Full-Stack Developer & Technical Co-Lead";
         this.location = "Colombia 🇨🇴";
-        this.currentPosition = "APE SENA (Colombian Public Employment Agency)";
+        this.currentPosition = "Rootstack";
         this.languages = ["TypeScript", "JavaScript", "Python", "PHP", "Java"];
         this.specialties = [
             "Enterprise Monorepo Architecture",
